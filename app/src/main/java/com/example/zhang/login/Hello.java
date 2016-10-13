@@ -6,4 +6,5 @@ package com.example.zhang.login;
 public class Hello
 {
     String s = "hello";
+    String s1 = "hello world";
 }
